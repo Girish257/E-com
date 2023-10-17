@@ -1,0 +1,17 @@
+.card-text{
+    color:  green;
+    font-weight: 800;
+}
+
+.card-title {
+    font-weight: 900;
+}
+
+/* #item_list{
+    display: flex;
+} */
+#item_name1{
+    padding: 45px;
+    border: 1px solid black;
+    margin: 50px;
+}
